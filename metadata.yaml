@@ -1,16 +1,22 @@
 _repo: President-Heber-C-Kimball-s-Journal-Seventh-Book-of-the-Faith-Promoting-Series_47519
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Lambert, George C.
       gutenberg_agent_id: '44364'
       url: http://www.gutenberg.org/2009/agents/44364
+covers:
+- cover_type: archival
+  image_path: 47519-h/images/cover.jpg
 creator:
   author:
     agent_name: Kimball, Heber C.
     gutenberg_agent_id: '44363'
     url: http://www.gutenberg.org/2009/agents/44363
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47519#President-Heber-C-Kimball-s-Journal-Seventh-Book-of-the-Faith-Promoting-Series
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-12-03'
 gutenberg_type: Text
